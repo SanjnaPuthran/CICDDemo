@@ -53,6 +53,7 @@ namespace CICDDemo
             app.UseCookiePolicy();
 
             app.UseMvc();
+// Comment
         }
     }
 }
